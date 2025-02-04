@@ -27,3 +27,5 @@ This pie chart helps understand which payment method is used to purchase more pr
 ## Dashboard 
 I have attached my tableau workbook so if you want to interact with it more you can download and check thank you!
 ![alt text](https://github.com/PranjaliD11/Online-Sales-Data/blob/main/Dashboard.png)
+
+Thank you for exploring till here, to access the dashboard kindly download the twbx file and open it in your tableau desktop app, or you can also download the .ipynb and run it in jupyter notebook or google collab. 
